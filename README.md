@@ -1,3 +1,5 @@
+Link to repository: https://github.com/PreciousAmazu/ConsoleCalculator
+
 Java Calculator Program
 
 Note: I did this alone after getting permission from the teacher so the readme.md is an explanation of my work.

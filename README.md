@@ -1,4 +1,5 @@
 Java Calculator Program
+
 Note: I did this alone after getting permission from the teacher so the readme.md is an explanation of my work.
 This is a simple console-based calculator program written in Java. The program incorporates several design patterns to showcase good software engineering practices.
 Features:

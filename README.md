@@ -154,57 +154,6 @@ public class CalculatorCommand {
 }
 ```
 ![img_6.png](img_6.png)
-=======
-Link to repository: https://github.com/PreciousAmazu/ConsoleCalculator
-
-Java Calculator Program
-
-Note: I did this alone after getting permission from the teacher so the readme.md is an explanation of my work.
-
-This is a simple console-based calculator program written in Java. The program incorporates several design patterns to showcase good software engineering practices.
-
-Features:
-
-•	Basic arithmetic operations: addition, subtraction, multiplication, and division.
-
-•	Logging of operations using the Decorator design pattern.
-
-•	Observer pattern for notifying external components about calculations.
-
-•	Command pattern for representing each operation as an object.
-
-Design Patterns Used:
-
-Creational Design Patterns:
-
-1.	Singleton Pattern:
-
-•	Ensures that a single instance of the Calculator class is used throughout the program.
-
-2.	Factory Method Pattern:
-	
-•	Implements the Operation interface with classes like Addition, Subtraction, Multiplication, and Division to create different types of operations.
-
-Structural Design Patterns:
-
-1.	Decorator Pattern:
-   
-•	Enhances the basic calculator by adding logging capabilities with the CalculatorWithLogging class.
-
-2.	Adapter Pattern:
-   
-•	Adapts input expressions to handle flexible calculations with the CalculatorAdapter class.
-
-Behavioral Design Patterns:
-
-1.	Observer Pattern:
-   
-•	Notifies external components (observers) about performed operations using the CalculatorObservable and CalculatorObserver interface.
-
-3.	Command Pattern:
-   
-•	Represents each operation as an object with the CalculatorCommand class, facilitating undo operations and maintaining a history of commands.
->>>>>>> d44ed30c9b2559559c9c560327f0e610b21feb3c
 
 How to Run:
 
